@@ -1,0 +1,410 @@
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\Autorization.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\App.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\App.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\Autorization.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.GenerateResource.cache
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.CoreCompileInputs.cache
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.CopyComplete
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.pdb
+C:\Users\Sh1za\source\repos\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.AssemblyReference.cache
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.AssemblyReference.cache
+D:\GunsBams\GunsBams\obj\Debug\MainWindow.g.cs
+D:\GunsBams\GunsBams\obj\Debug\OneOrder.g.cs
+D:\GunsBams\GunsBams\obj\Debug\OrdersWindow.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\Autorization.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\merches.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\Registration.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+D:\GunsBams\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+D:\GunsBams\GunsBams\obj\Debug\App.g.cs
+D:\GunsBams\GunsBams\obj\Debug\GunsBams_Content.g.cs
+D:\GunsBams\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+D:\GunsBams\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.exe
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.pdb
+D:\GunsBams\GunsBams\bin\Debug\GunsBams.exe.config
+D:\GunsBams\GunsBams\bin\Debug\GunsBams.exe
+D:\GunsBams\GunsBams\bin\Debug\GunsBams.pdb
+D:\GunsBams\GunsBams\bin\Debug\EntityFramework.dll
+D:\GunsBams\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+D:\GunsBams\GunsBams\bin\Debug\EntityFramework.xml
+D:\GunsBams\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+D:\GunsBams\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+D:\GunsBams\GunsBams\obj\Debug\App.baml
+D:\GunsBams\GunsBams\obj\Debug\MainWindow.baml
+D:\GunsBams\GunsBams\obj\Debug\OneOrder.baml
+D:\GunsBams\GunsBams\obj\Debug\OrdersWindow.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\Autorization.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\EditMerch.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\EditOrders.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\merches.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\OrdersPages.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\Registration.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\RootMerch.baml
+D:\GunsBams\GunsBams\obj\Debug\Pages\TalonOrder.baml
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.g.resources
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.GenerateResource.cache
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.CoreCompileInputs.cache
+D:\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.CopyComplete
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\GunsBams.csproj.AssemblyReference.cache
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\Autorization.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\App.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\Sh1za\Desktop\GunsBams\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\itextsharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\PdfSharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\zxing.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\zxing.presentation.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\itextsharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\PdfSharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\zxing.xml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\zxing.presentation.xml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\Autorization.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\mercheslist.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\App.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\App.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\Autorization.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\HistoryPage.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\mercheslist.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams.csproj.GenerateResource.cache
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams.csproj.CoreCompileInputs.cache
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams.csproj.CopyComplete
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233\GunsBams\obj\Debug\GunsBams.pdb
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\mercheslist.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\plitka.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\App.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\itextsharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\PdfSharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\zxing.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\zxing.presentation.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\itextsharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\PdfSharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\zxing.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\zxing.presentation.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\App.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\avtorizacia.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\HistoryPage.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\mercheslist.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\plitka.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.csproj.GenerateResource.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.csproj.CoreCompileInputs.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.csproj.CopyComplete
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.pdb
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия\GunsBams\obj\Debug\GunsBams.csproj.AssemblyReference.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\itextsharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\PdfSharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\zxing.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\zxing.presentation.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\itextsharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\PdfSharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\zxing.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\zxing.presentation.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.AssemblyReference.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\mercheslist.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\plitka.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\App.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\App.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\mercheslist.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\plitka.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.GenerateResource.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.CoreCompileInputs.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.CopyComplete
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия\GunsBams\obj\Debug\GunsBams.pdb
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.xml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.AssemblyReference.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.GenerateResource.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.CoreCompileInputs.cache
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.CopyComplete
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\Sh1za\Desktop\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.csproj.CopyComplete
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.pdb

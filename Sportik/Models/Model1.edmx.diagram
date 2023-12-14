@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bc8960b5a1724a0081f6bf9d90148f45" Name="Diagram1">
+        <EntityTypeShape EntityType="sportclubbdModel.loginhistory" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.merch" Width="1.5" PointX="8.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.orders" Width="1.5" PointX="8.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.point" Width="1.5" PointX="6" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.sostav" Width="1.5" PointX="10.5" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.status" Width="1.5" PointX="6" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.type_user" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sportclubbdModel.users" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="sportclubbdModel.FK_loginhistory_users" ManuallyRouted="false" />
+        <AssociationConnector Association="sportclubbdModel.FK_sostav_merch" ManuallyRouted="false" />
+        <AssociationConnector Association="sportclubbdModel.FK_orders_point" ManuallyRouted="false" />
+        <AssociationConnector Association="sportclubbdModel.FK_orders_status" ManuallyRouted="false" />
+        <AssociationConnector Association="sportclubbdModel.FK_orders_users" ManuallyRouted="false" />
+        <AssociationConnector Association="sportclubbdModel.FK_sostav_orders1" ManuallyRouted="false" />
+        <AssociationConnector Association="sportclubbdModel.FK_users_type_user" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
