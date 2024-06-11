@@ -1,0 +1,56 @@
+﻿<Page x:Class="LifeTrack.Pages.Spravka"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LifeTrack.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Spravka">
+
+    <Grid Background="#455A64 ">
+        <Image Source="/Res/backspravka.jpg" Stretch="Fill" Opacity="0.3"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="25" Margin="0,0,0,20">
+                    Руководство пользователя LifeTrack
+                </TextBlock>
+
+                <!-- Руководство для Пациентов -->
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="22" Margin="0,0,0,10">
+                    Для Пациентов
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="18" Margin="0,0,0,10">
+                    Регистрация и Вход:
+                    
+                    Зарегистрируйтесь, используя свой логин. После регистрации войдите в систему, вводя свои учетные данные.
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="18" Margin="0,0,0,10">
+                    Запись на Прием:
+                    
+                    На главной странице нажмите кнопку "Записаться на прием". Выберите врача (терапевт, травматолог или ортодонт) и удобную для вас дату и время. Подтвердите запись и получите уведомление о предстоящем визите.
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="18" Margin="0,0,0,10">
+                    Просмотр Записей:
+                    
+                    Перейдите в раздел "Мои записи" для просмотра всех ваших записей. В таблице отображается информация о враче, специализации, дате и времени визита, результатах обследования, рецептах и советах врача. В нижней части таблицы отображается количество завершенных и незавершенных записей. Запись считается завершенной, если в таблице о ней есть запись о результате обследования.
+                </TextBlock>
+
+                <!-- Руководство для Врачей -->
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="22" Margin="20,20,0,10">
+                    Для Врачей
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="18" Margin="0,0,0,10">
+                    Регистрация и Вход:
+                    
+                    Зарегистрируйтесь, используя свой логин. Выберите соответствующую роль (терапевт, травматолог или ортодонт) в выпадающем списке. После регистрации войдите в систему, вводя свои учетные данные.
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="18" Margin="0,0,0,10">
+                    Управление Записями Пациентов:
+                    
+                    Перейдите в раздел "Мои записи" для просмотра всех записей пациентов. В таблице отображается информация о пациенте, дате и времени визита, результатах обследования, рецептах и советах врача. Для завершения записи добавьте результаты обследования, рецепты и советы в соответствующие поля.
+                </TextBlock>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

@@ -1,0 +1,39 @@
+﻿<Page x:Class="LifeTrack.Pages.Registration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:LifeTrack.Pages"
+      mc:Ignorable="d"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Registration">
+
+    <Grid Background="#455A64">
+        <Image Source="/Photo/reg.jpg" Stretch="Fill" Opacity="0.3"></Image>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Регистрация" Foreground="#64ddbb" FontSize="25" FontWeight="Bold" FontFamily="a_CityNova" TextAlignment="Center" VerticalAlignment="Center">
+                <TextBlock.Effect>
+                    <DropShadowEffect ShadowDepth="5" Color="Black" BlurRadius="3"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <ComboBox x:Name="RoleComboBox" SelectionChanged="RoleComboBox_SelectionChanged">
+                <ComboBoxItem Content="Пациент" Tag="3"/>
+                <ComboBoxItem Content="Администратор" Tag="1"/>
+                <ComboBoxItem Content="Терапевт" Tag="1002"/>
+                <ComboBoxItem Content="Травматолог" Tag="1003"/>
+                <ComboBoxItem Content="Ортодонт" Tag="1004"/>
+            </ComboBox>
+            <TextBlock Style="{StaticResource MyTextStyle}" x:Name="AdminCodeHintTextBlock" Text="Введите код администратора" Visibility="Collapsed" HorizontalAlignment="Center" Margin="5"/>
+            <TextBox x:Name="AdminCodeTextBox" Visibility="Collapsed" Margin="5"/>
+            <TextBlock Style="{StaticResource MyTextStyle}" x:Name="DoctorNameHintTextBlock" Text="Введите ФИО врача" Visibility="Collapsed" HorizontalAlignment="Center" Margin="5"/>
+            <TextBox x:Name="DoctorNameTextBox" Visibility="Collapsed" Margin="5"/>
+            <TextBlock Style="{StaticResource MyTextStyle}" HorizontalAlignment="Center">Логин</TextBlock>
+            <TextBox Name="Login"></TextBox>
+            <TextBlock Style="{StaticResource MyTextStyle}" HorizontalAlignment="Center">Пароль</TextBlock>
+            <PasswordBox Name="Password"></PasswordBox>
+            <TextBlock Style="{StaticResource MyTextStyle}" HorizontalAlignment="Center">Подтвердите пароль</TextBlock>
+            <PasswordBox Name="ConfirmPassword"></PasswordBox>
+            <Button Click="Registraciya_Click" Width="250" Style="{StaticResource CustomButtonStyle}" Margin="0 10 0 0">ЗАРЕГИСТРИРОВАТЬСЯ</Button>
+        </StackPanel>
+    </Grid>
+</Page>

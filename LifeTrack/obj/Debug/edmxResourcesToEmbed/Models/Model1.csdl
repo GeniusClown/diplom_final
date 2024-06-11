@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UchModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="appointments">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_id" Type="Int32" />
+    <Property Name="doctor_id" Type="Int32" />
+    <Property Name="appointment_date" Type="DateTime" Precision="0" />
+    <Property Name="appointment_time" Type="Time" Precision="7" />
+    <Property Name="examination_result" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="prescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="advice" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="users" Relationship="Self.FK__appointme__docto__07C12930" FromRole="appointments" ToRole="users" />
+    <NavigationProperty Name="users1" Relationship="Self.FK__appointme__user___06CD04F7" FromRole="appointments" ToRole="users" />
+  </EntityType>
+  <EntityType Name="LoginHistory">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_users" Type="Int32" />
+    <Property Name="LoginDateTime" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="users" Relationship="Self.FK__LoginHist__id_us__31EC6D26" FromRole="LoginHistory" ToRole="users" />
+  </EntityType>
+  <EntityType Name="orders">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_users" Type="Int32" Nullable="false" />
+    <Property Name="id_status" Type="Int32" Nullable="false" />
+    <Property Name="id_point" Type="Int32" Nullable="false" />
+    <Property Name="order_date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="code" Type="Int32" Nullable="false" />
+    <Property Name="cost" Type="Int32" Nullable="false" />
+    <Property Name="discount" Type="Int32" />
+    <Property Name="total_cost" Type="Int32" />
+    <Property Name="delivery_days" Type="Int32" />
+    <NavigationProperty Name="point" Relationship="Self.FK_orders_point" FromRole="orders" ToRole="point" />
+    <NavigationProperty Name="status" Relationship="Self.FK_orders_status" FromRole="orders" ToRole="status" />
+    <NavigationProperty Name="users" Relationship="Self.FK_orders_users" FromRole="orders" ToRole="users" />
+    <NavigationProperty Name="sostav" Relationship="Self.FK_sostav_orders" FromRole="orders" ToRole="sostav" />
+  </EntityType>
+  <EntityType Name="pacient">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="photo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="old" Type="Int32" Nullable="false" />
+    <Property Name="gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="desease" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="user_id" Type="Int32" />
+    <NavigationProperty Name="sostav" Relationship="Self.FK_sostav_merch" FromRole="pacient" ToRole="sostav" />
+  </EntityType>
+  <EntityType Name="point">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="photo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="orders" Relationship="Self.FK_orders_point" FromRole="point" ToRole="orders" />
+  </EntityType>
+  <EntityType Name="sostav">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_orders" Type="Int32" Nullable="false" />
+    <Property Name="id_merch" Type="Int32" Nullable="false" />
+    <Property Name="count" Type="Int32" />
+    <Property Name="quantity" Type="Int32" />
+    <Property Name="total_cost" Type="Int32" />
+    <Property Name="discount" Type="Int32" />
+    <NavigationProperty Name="orders" Relationship="Self.FK_sostav_orders" FromRole="sostav" ToRole="orders" />
+    <NavigationProperty Name="pacient" Relationship="Self.FK_sostav_merch" FromRole="sostav" ToRole="pacient" />
+  </EntityType>
+  <EntityType Name="status">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="status_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="orders" Relationship="Self.FK_orders_status" FromRole="status" ToRole="orders" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="type_user">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="role" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="users" Relationship="Self.FK_users_type_user" FromRole="type_user" ToRole="users" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="photo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="id_type" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="appointments" Relationship="Self.FK__appointme__docto__07C12930" FromRole="users" ToRole="appointments" />
+    <NavigationProperty Name="appointments1" Relationship="Self.FK__appointme__user___06CD04F7" FromRole="users" ToRole="appointments" />
+    <NavigationProperty Name="LoginHistory" Relationship="Self.FK__LoginHist__id_us__31EC6D26" FromRole="users" ToRole="LoginHistory" />
+    <NavigationProperty Name="orders" Relationship="Self.FK_orders_users" FromRole="users" ToRole="orders" />
+    <NavigationProperty Name="type_user" Relationship="Self.FK_users_type_user" FromRole="users" ToRole="type_user" />
+  </EntityType>
+  <Association Name="FK__appointme__docto__07C12930">
+    <End Role="users" Type="Self.users" Multiplicity="0..1" />
+    <End Role="appointments" Type="Self.appointments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="appointments">
+        <PropertyRef Name="doctor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__appointme__user___06CD04F7">
+    <End Role="users" Type="Self.users" Multiplicity="0..1" />
+    <End Role="appointments" Type="Self.appointments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="appointments">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LoginHist__id_us__31EC6D26">
+    <End Role="users" Type="Self.users" Multiplicity="0..1" />
+    <End Role="LoginHistory" Type="Self.LoginHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="LoginHistory">
+        <PropertyRef Name="id_users" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orders_point">
+    <End Role="point" Type="Self.point" Multiplicity="1" />
+    <End Role="orders" Type="Self.orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="point">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orders">
+        <PropertyRef Name="id_point" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orders_status">
+    <End Role="status" Type="Self.status" Multiplicity="1" />
+    <End Role="orders" Type="Self.orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="status">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orders">
+        <PropertyRef Name="id_status" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orders_users">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="orders" Type="Self.orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orders">
+        <PropertyRef Name="id_users" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sostav_orders">
+    <End Role="orders" Type="Self.orders" Multiplicity="1" />
+    <End Role="sostav" Type="Self.sostav" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="orders">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="sostav">
+        <PropertyRef Name="id_orders" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sostav_merch">
+    <End Role="pacient" Type="Self.pacient" Multiplicity="1" />
+    <End Role="sostav" Type="Self.sostav" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="pacient">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="sostav">
+        <PropertyRef Name="id_merch" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_users_type_user">
+    <End Role="type_user" Type="Self.type_user" Multiplicity="1" />
+    <End Role="users" Type="Self.users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="type_user">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="users">
+        <PropertyRef Name="id_type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UchEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="appointments" EntityType="Self.appointments" />
+    <EntitySet Name="LoginHistory" EntityType="Self.LoginHistory" />
+    <EntitySet Name="orders" EntityType="Self.orders" />
+    <EntitySet Name="pacient" EntityType="Self.pacient" />
+    <EntitySet Name="point" EntityType="Self.point" />
+    <EntitySet Name="sostav" EntityType="Self.sostav" />
+    <EntitySet Name="status" EntityType="Self.status" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="type_user" EntityType="Self.type_user" />
+    <EntitySet Name="users" EntityType="Self.users" />
+    <AssociationSet Name="FK__appointme__docto__07C12930" Association="Self.FK__appointme__docto__07C12930">
+      <End Role="users" EntitySet="users" />
+      <End Role="appointments" EntitySet="appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__appointme__user___06CD04F7" Association="Self.FK__appointme__user___06CD04F7">
+      <End Role="users" EntitySet="users" />
+      <End Role="appointments" EntitySet="appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LoginHist__id_us__31EC6D26" Association="Self.FK__LoginHist__id_us__31EC6D26">
+      <End Role="users" EntitySet="users" />
+      <End Role="LoginHistory" EntitySet="LoginHistory" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orders_point" Association="Self.FK_orders_point">
+      <End Role="point" EntitySet="point" />
+      <End Role="orders" EntitySet="orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orders_status" Association="Self.FK_orders_status">
+      <End Role="status" EntitySet="status" />
+      <End Role="orders" EntitySet="orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orders_users" Association="Self.FK_orders_users">
+      <End Role="users" EntitySet="users" />
+      <End Role="orders" EntitySet="orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sostav_orders" Association="Self.FK_sostav_orders">
+      <End Role="orders" EntitySet="orders" />
+      <End Role="sostav" EntitySet="sostav" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sostav_merch" Association="Self.FK_sostav_merch">
+      <End Role="pacient" EntitySet="pacient" />
+      <End Role="sostav" EntitySet="sostav" />
+    </AssociationSet>
+    <AssociationSet Name="FK_users_type_user" Association="Self.FK_users_type_user">
+      <End Role="type_user" EntitySet="type_user" />
+      <End Role="users" EntitySet="users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

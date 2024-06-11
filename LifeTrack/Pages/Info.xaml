@@ -1,0 +1,41 @@
+﻿<Page x:Class="LifeTrack.Pages.Info"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LifeTrack.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Info">
+
+    <Grid Background="#455A64">
+        <Image Source="/Photo/vrachi.jpg" Stretch="Fill" Opacity="0.3"></Image>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Style="{StaticResource MyTextStyle}"  FontSize="25" Margin="0,0,0,20">
+                Добро пожаловать в LifeTrack - Вашу Личную Медицинскую Карту!
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="20" Margin="0,0,0,10">
+                "LifeTrack - инновационная система управления медицинской историей пациентов. Наше приложение обеспечивает врачей и медицинский персонал интуитивным и эффективным инструментарием для ведения записей о здоровье пациентов, а также предоставляет пациентам удобный доступ к своей медицинской истории."
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="18" Margin="0,0,0,10">
+                Основные функции:
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="18" Margin="0,0,0,10" Width="557" HorizontalAlignment="Left">
+                Удобный Обзор Пациентов, Подробная Медицинская История, Визуализация данных, Управление Рецептами и Лекарствами, Напоминания и Календарь Визитов
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="15" Margin="0,0,0,10">
+                Поддержка и Обратная Связь:
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="15" Margin="0,0,0,10">
+               support@lifetrackcare.com
+                </TextBlock>
+                <TextBlock Style="{StaticResource MyTextStyle}" FontSize="15" Width="583" HorizontalAlignment="Left"><Run Text="Благодарим вас за использование LifeTrack - ваш партнер в эффективном управлении медицинской документацией!"/></TextBlock>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

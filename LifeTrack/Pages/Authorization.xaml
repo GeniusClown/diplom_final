@@ -1,0 +1,54 @@
+﻿<Page x:Class="LifeTrack.Pages.Authorization"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LifeTrack.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Authorization">
+
+    <Grid Background="#455A64">
+        <Image Source="/Photo/avtorizacia.jpg" Stretch="Fill" Opacity="0.3"></Image>
+        <StackPanel x:Name="LoginBlock" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Авторизация" Foreground="#64ddbb" FontSize="25" FontWeight="Bold" FontFamily="a_CityNova" TextAlignment="Center" VerticalAlignment="Center">
+                <TextBlock.Effect>
+                    <DropShadowEffect ShadowDepth="5" Color="Black" BlurRadius="3"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <TextBlock Style="{StaticResource MyTextStyle}" FontSize="10" HorizontalAlignment="Center"> Введите логин:</TextBlock>
+            <TextBox Name="TxbLogin" ></TextBox>
+            <TextBlock Style="{StaticResource MyTextStyle}" FontSize="10"  HorizontalAlignment="Center"> Введите пароль:</TextBlock>
+            <TextBox Name="TxbPassword" Visibility="Collapsed" ></TextBox>
+            <PasswordBox Name="PsbPassword" ></PasswordBox>
+            <TextBlock Style="{StaticResource MyTextStyle}" FontSize="8" Text="Show Password" x:Name="TbxShowPass" HorizontalAlignment="Center" MouseDown="TbxShowPass_MouseDown" MouseUp="TbxShowPass_MouseUp" ></TextBlock>
+            <Button Name="BtnInLogin" FontWeight="Bold" Click="BtnInLogin_Click" Style="{StaticResource CustomButtonStyle}">ВОЙТИ</Button>
+            <StackPanel x:Name="CaptchaTbBlock" Orientation="Horizontal" Height="28" Margin="0,10,0,0" Visibility="Collapsed">
+                <TextBlock Text="Капча:" Width="50" VerticalAlignment="Center"/>
+                <TextBox x:Name="CaptchaTB" Width="200"/>
+            </StackPanel>
+            <StackPanel x:Name="CaptchaBlock" Orientation="Vertical"  VerticalAlignment="Center" Visibility="Collapsed">
+                <Button Name="CheckCaptcha" Click="CheckCaptcha_Click">Подтвердить</Button>
+
+                <StackPanel Orientation="Horizontal">
+                    <Border Width="200" Height="75" BorderBrush="#FF707070" BorderThickness="1, 1, 0, 1">
+                        <Grid Width="200" Height="75" ClipToBounds="True" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <StackPanel Orientation="Horizontal" Name="SPanelSymbols" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            <Canvas Name="CanvasNoise"></Canvas>
+                        </Grid>
+                    </Border>
+                    <Button x:Name="BtnUpdateCaptcha" VerticalAlignment="Center" Click="BtnUpdateCaptcha_Click">
+                        Обновить
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+
+
+
+        <TextBlock x:Name="BlockedTB" Text="" Width="250" TextAlignment="Center" Foreground="Red" VerticalAlignment="Center" TextWrapping="Wrap"/>
+        <TextBlock x:Name="LoginTimerTB" Width="200" TextAlignment="Center" Foreground="Red" Visibility="Collapsed"/>
+
+    </Grid>
+</Page>

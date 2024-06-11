@@ -1,0 +1,173 @@
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OneOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\OrdersWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\avtorizacia.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\HistoryPage.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\merches.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\OrdersPages.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\plitka.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Pages\TalonOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\GunsBams\obj\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OneOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OrdersWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\merches.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\plitka.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OneOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\OrdersWindow.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\HistoryPage.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\merches.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\OrdersPages.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\plitka.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\TalonOrder.baml
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Authorization.g.cs
+C:\Users\SystemX\Desktop\УП2023\GunsBams1233 — копия — копия — копия\Sportik\obj\Debug\Pages\Authorization.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\GunsBams.exe.config
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\GunsBams.pdb
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\itextsharp.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.Charting.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.presentation.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\itextsharp.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\PdfSharp.Charting.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\zxing.presentation.xml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Authorization.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Calculator.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Info.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Registration.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams_Content.g.cs
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams_MarkupCompile.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams_MarkupCompile.lref
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\App.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Authorization.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Calculator.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditMerch.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\EditOrders.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Info.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\Registration.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Pages\RootMerch.baml
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.g.resources
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.Properties.Resources.resources
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\Sportik.csproj.CopyComplete
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.exe
+C:\Users\SystemX\Desktop\УП2023\sportik\Sportik\obj\Debug\GunsBams.pdb
